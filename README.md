@@ -4,7 +4,7 @@ Interactive Power BI dashboard analyzing sales performance, customer profitabili
 
 ## 📊 Project Overview
 
-This project presents an interactive Power BI dashboard designed to analyze sales performance and customer profitability. The dashboard provides insights into sales trends, profit by brand, customer distribution by region, income levels, and product categories.
+This project presents an interactive Power BI dashboard designed to analyze sales performance and customer profitability. It provides clear insights into sales trends, profit by brand, customer distribution by region, income levels, and product categories.
 
 ### Key Features
 - Total Sales by Year
@@ -13,7 +13,7 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 - Customer trends by Month
 - Sales distribution by Color
 - Regional and Category filters
-- Data model with Products, Sales, and Customers tables
+- Relational data model (Products, Sales, and Customers tables)
 
 ## 🛠️ Tools Used
 - Power BI Desktop
@@ -30,12 +30,12 @@ This project presents an interactive Power BI dashboard designed to analyze sale
 
 ## 📂 How to Use
 1. Download the `.pbix` file from this repository
-2. Open it using **Power BI Desktop**
+2. Open it with **Power BI Desktop**
 3. Explore the interactive filters and visuals
 
 ## 📌 Notes
-- The dashboard uses a relational data model connecting Products, Sales, and Customers.
-- Filters are available for Region and Category for deeper analysis.
+- The dashboard uses a star-schema data model connecting Products, Sales, and Customers.
+- Interactive filters are available for Region and Category for deeper analysis.
 
 ---
 
