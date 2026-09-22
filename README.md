@@ -1,2 +1,2 @@
-# Sales-and-Customer-Profitability-Dashboard
-Data analysis project using Python and Power BI to analyze sales performance and generate business insights.
+ Sales-and-Customer-Profitability-Dashboard
+Interactive Power BI dashboard analyzing sales performance, customer profitability, brands, and regional insights
